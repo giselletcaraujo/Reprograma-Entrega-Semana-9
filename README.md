@@ -1,4 +1,4 @@
-# Aula 9- Construindo API utilizando os métodos POST e DELETE
+# Aula 9 - Construindo API utilizando os métodos POST e DELETE
 ____________
 
 __**Exercícios**__
